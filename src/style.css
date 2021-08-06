@@ -1,0 +1,16 @@
+h1, p {
+  font-family: Lato;
+}
+
+.input{
+  background-color: rgba(97, 47, 236, 0.596);
+  width:auto;
+  height: 240px;
+  text-align: center;
+}
+.displayUser{
+  background-color: rgba(47, 236, 94, 0.596);
+  width:auto;
+  height: 500px;
+  text-align: center;
+}
